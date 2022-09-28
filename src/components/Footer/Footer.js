@@ -36,7 +36,7 @@ const Footer = () => {
   }));
 
   return (
-    <Box sx={{ py: 10, background:'#ff3d00',width:'100%',bottom:0  }} position={'fixed'}>
+    <Box sx={{ py: 10,width:'100%',bottom:0  }} >
       <CustomContainer>
         <CustomContainer>
           <Box>
