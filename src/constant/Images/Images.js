@@ -6,6 +6,10 @@ import starsImg from '../../assets/Images/Star.png';
 import logosImg from  '../../assets/Images/logos.png';
 import heroImg from '../../assets/Images/hero_illustration.png';
 import houseCard from '../../assets/Images/houseCard.png';
+import homeIllustration from '../../assets/Images/illustration.png';
+import bedroomsIcon from '../../assets/Images/bedroomsIcon.png';
+import bathroomsIcon from '../../assets/Images/bathroomsIcon.png';
+import spaceIcon from '../../assets/Images/spaceIcon.png';
 
 
 
@@ -17,5 +21,9 @@ export {
     starsImg,
     logosImg,
     heroImg,
-    houseCard
+    houseCard,
+    homeIllustration,
+    bedroomsIcon,
+    bathroomsIcon,
+    spaceIcon
 }
