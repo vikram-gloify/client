@@ -10,6 +10,9 @@ import homeIllustration from '../../assets/Images/illustration.png';
 import bedroomsIcon from '../../assets/Images/bedroomsIcon.png';
 import bathroomsIcon from '../../assets/Images/bathroomsIcon.png';
 import spaceIcon from '../../assets/Images/spaceIcon.png';
+import buyIcon from '../../assets/Images/buy_icon.png';
+import sellIcon from '../../assets/Images/sell_icon.png';
+import rentIcon from '../../assets/Images/rent_icon.png';
 
 
 
@@ -25,5 +28,8 @@ export {
     homeIllustration,
     bedroomsIcon,
     bathroomsIcon,
-    spaceIcon
+    spaceIcon,
+    buyIcon,
+    sellIcon,
+    rentIcon
 }
