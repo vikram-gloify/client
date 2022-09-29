@@ -71,7 +71,7 @@ export const Navbar = () => {
     fontWeight: 'bold',
     cursor: 'pointer',
     '&:hover': {
-      color: '#fff',
+      color: '#4F5361',
     },
   }));
 
