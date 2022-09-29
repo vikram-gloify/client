@@ -10,10 +10,20 @@ import homeIllustration from '../../assets/Images/illustration.png';
 import bedroomsIcon from '../../assets/Images/bedroomsIcon.png';
 import bathroomsIcon from '../../assets/Images/bathroomsIcon.png';
 import spaceIcon from '../../assets/Images/spaceIcon.png';
+import buyIcon from '../../assets/Images/buy_icon.png';
+import sellIcon from '../../assets/Images/sell_icon.png';
+import rentIcon from '../../assets/Images/rent_icon.png';
+import house1 from '../../assets/Images/image1.png';
+import house2 from '../../assets/Images/image2.png';
+import house3 from '../../assets/Images/image3.png';
+
 
 
 
 export {
+    house1,
+    house2,
+    house3,
     fbIcon,
     twitterIcon,
     linkedinIcon,
@@ -25,5 +35,8 @@ export {
     homeIllustration,
     bedroomsIcon,
     bathroomsIcon,
-    spaceIcon
+    spaceIcon,
+    buyIcon,
+    sellIcon,
+    rentIcon
 }

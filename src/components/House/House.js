@@ -32,7 +32,7 @@ const House = ({ img, price, address, bedrooms, bathrooms, space }) => {
 
       <Box sx={{ padding: "1rem" }}>
         <Typography variant="body2" sx={{ fontWeight: "700" }}>
-          ${price}
+          ₹{price}
         </Typography>
         <Typography variant="body2" sx={{ my: 2 }}>
           {address}
